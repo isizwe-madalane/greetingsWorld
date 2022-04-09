@@ -1,0 +1,15 @@
+C:\Users\odiri\Desktop\greetingsWorld\bin\Debug\net6.0\greetingsWorld.exe
+C:\Users\odiri\Desktop\greetingsWorld\bin\Debug\net6.0\greetingsWorld.deps.json
+C:\Users\odiri\Desktop\greetingsWorld\bin\Debug\net6.0\greetingsWorld.runtimeconfig.json
+C:\Users\odiri\Desktop\greetingsWorld\bin\Debug\net6.0\greetingsWorld.dll
+C:\Users\odiri\Desktop\greetingsWorld\bin\Debug\net6.0\greetingsWorld.pdb
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.csproj.AssemblyReference.cache
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.AssemblyInfoInputs.cache
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.AssemblyInfo.cs
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.csproj.CoreCompileInputs.cache
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.dll
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\refint\greetingsWorld.dll
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.pdb
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\greetingsWorld.genruntimeconfig.cache
+C:\Users\odiri\Desktop\greetingsWorld\obj\Debug\net6.0\ref\greetingsWorld.dll
